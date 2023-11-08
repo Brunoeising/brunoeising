@@ -18,6 +18,7 @@ Aqui estão alguns dos projetos que eu desenvolvi:
 
 ### Projeto-busca-de-indices
 - **Descrição**: Ferramenta para a coleta automática de dados econômicos chave, como INPC, SELIC e taxas do Banco Central.
+- https://portal-indices.vercel.app
 - **Repo**: [Ver código](https://github.com/Brunoeising/Projeto-busca-de-indices)
 
 ### Projeto-ganhe-para-assistir
