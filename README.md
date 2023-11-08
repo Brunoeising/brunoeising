@@ -27,8 +27,6 @@ Aqui estão alguns dos projetos que eu desenvolvi:
 - **Repo**: [Ver código](https://github.com/Brunoeising/Projeto-ganhe-para-assistir)
 
 ## Vamos Conectar!
-Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para se conectar comigo!
-
 - **[LinkedIn]([https://www.linkedin.com/in/brunohenriquedossantos](https://www.linkedin.com/in/bruno-henrique-dos-santos-6214a7143/))**
 
 
