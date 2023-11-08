@@ -26,7 +26,7 @@ Aqui estão alguns dos projetos que eu desenvolvi:
 - **Demo**: [app.wvwcoin.com](https://app.wvwcoin.com/)
 - **Repo**: [Ver código](https://github.com/Brunoeising/Projeto-ganhe-para-assistir)
 
-## Vamos Conectar! **[LinkedIn]([https://www.linkedin.com/in/brunohenriquedossantos](https://www.linkedin.com/in/bruno-henrique-dos-santos-6214a7143/))**
+### Vamos Conectar! https://www.linkedin.com/in/bruno-henrique-dos-santos-6214a7143/
 
 
   
